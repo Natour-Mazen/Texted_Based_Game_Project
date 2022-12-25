@@ -1,4 +1,4 @@
-# SCP_Texted_Based_Game_Project
+# Texted_Based_Game_Project
 A student Project from the University of Poitiers , in France
 
 ======================ENGLIISH=====================
