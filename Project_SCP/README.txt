@@ -1,11 +1,3 @@
- __________________________________
-|Projet POO_IHM1, L3 Informatique. |
-|Groupe 7 :                        |	
-|- Al Natour Mazen                 |
-|- Caillaud Tom                    |
-|- Fadli Mohamed                   |
-|__________________________________|
-
 
 Vous trouverez Trois dossiers dans ce reperatoire :
 ----------------------------------------------------
