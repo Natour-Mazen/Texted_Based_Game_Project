@@ -3,7 +3,7 @@ Vous trouverez Trois dossiers dans ce reperatoire :
 ----------------------------------------------------
 
 	* Livrables :
-		Contenant le rapport.pdf et La map de notre jeu ainsi que les images en meilleur qualité pour l'UML , diagramme de séquence et d'état.
+		Contenant La map de notre jeu ainsi que les images en meilleur qualité pour l'UML , diagramme de séquence et d'état.
 
 	* POO_Project_G.7_eclipse :
 		Ceci une version du projet sous eclipse, il suffit de l'installer sur celui-ci, et d'ouvrir le 
